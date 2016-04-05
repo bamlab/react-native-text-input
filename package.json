@@ -1,0 +1,25 @@
+{
+  "name": "react-native-text-input",
+  "version": "1.0.0",
+  "description": "Provides Text Input component with colorization for password both on Android & iOS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bamlab/react-native-text-input.git"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "text-input",
+    "secure",
+    "password"
+  ],
+  "peerDependencies": {
+    "react-native": ">=v0.20.0"
+  },
+  "author": "Almouro <contact@almouro.com> (almouro.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bamlab/react-native-text-input/issues"
+  },
+  "homepage": "https://github.com/bamlab/react-native-text-input#readme"
+}
