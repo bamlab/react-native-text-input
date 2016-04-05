@@ -14,7 +14,7 @@
     "password"
   ],
   "peerDependencies": {
-    "react-native": ">=v0.20.0"
+    "react-native": ">=v0.18.0"
   },
   "author": "Almouro <contact@almouro.com> (almouro.com)",
   "license": "MIT",
